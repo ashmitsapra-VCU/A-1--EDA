@@ -3,8 +3,11 @@ This project performs a data audit and exploratory data analysis on the Bank Mar
 The workflow includes data inspection, data quality assessment, descriptive statistical analysis, outlier detection, relationship exploration, and data visualization to better understand customer characteristics and campaign outcomes.
 ## Project Structure
 1)A1_12_Sapra.ipynb- Python notebook
+
 2)A1_12_Sapra_Data.csv- Data Set
+
 3)A1_12_Sapra.pdf- Report
+
 4)README.md → Project documentation
 ## Analysis Performed
 
