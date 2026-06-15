@@ -1,4 +1,4 @@
-#Bank Marketing Data and Exploratory Data Analysis (EDA)
+# Bank Marketing Data and Exploratory Data Analysis (EDA)
 This project performs a data audit and exploratory data analysis on the Bank Marketing dataset. The dataset contains customer demographic information, financial details, and marketing campaign data collected by a banking institution during marketing activities.
 The workflow includes data inspection, data quality assessment, descriptive statistical analysis, outlier detection, relationship exploration, and data visualization to better understand customer characteristics and campaign outcomes.
 ##Project Structure
