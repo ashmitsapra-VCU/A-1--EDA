@@ -2,11 +2,11 @@
 This project performs a data audit and exploratory data analysis on the Bank Marketing dataset. The dataset contains customer demographic information, financial details, and marketing campaign data collected by a banking institution during marketing activities.
 The workflow includes data inspection, data quality assessment, descriptive statistical analysis, outlier detection, relationship exploration, and data visualization to better understand customer characteristics and campaign outcomes.
 ## Project Structure
-1)A1_12_Sapra.ipynb- Python notebook
+1)A1_2528712_Sapra.ipynb- Python notebook
 
-2)A1_12_Sapra_Data.csv- Data Set
+2)A1_2528712_Sapra_Data.csv- Data Set
 
-3)A1_12_Sapra.pdf- Report
+3)A1_2528712_Sapra.pdf- Report
 
 4)README.md → Project documentation
 ## Analysis Performed
